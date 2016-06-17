@@ -1,4 +1,4 @@
-git clone https://github.com/sam/sam
+git clone https://github.com/sam0096/sam0096
 cd username.github.io
 ~$echo "Hello World" > index.html
 git add --all
